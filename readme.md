@@ -4,7 +4,7 @@
 
 ## Usage
 
-Add your mongoDB URI  to the config.env file
+Add your mongoDB URI  to the config/config.env file
 
 ```
 # Install dependencies
