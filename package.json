@@ -10,14 +10,14 @@
   "author": "Athul Joy",
   "license": "MIT",
   "dependencies": {
-    "dotenv": "^8.2.0",
-    "ejs": "^3.1.5",
-    "express": "^4.17.1",
-    "mongoose": "^5.10.0",
-    "shortid": "^2.2.15",
+    "dotenv": "^8.6.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "mongoose": "^5.13.14",
+    "shortid": "^2.2.16",
     "valid-url": "^1.0.9"
   },
   "devDependencies": {
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.15"
   }
 }
