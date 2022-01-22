@@ -4,7 +4,10 @@
 
 ## Usage
 
-Add your mongoDB URI  to the config/config.env file
+Set up environment variables
+
+    cp env.sample .env, and modify as required
+
 
 ```
 # Install dependencies
